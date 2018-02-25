@@ -1,0 +1,2 @@
+F:\gameedit\Srv\obj\Release\netcoreapp2.0\Srv.csprojResolveAssemblyReference.cache
+F:\gameedit\Srv\obj\Release\netcoreapp2.0\Srv.csproj.CoreCompileInputs.cache

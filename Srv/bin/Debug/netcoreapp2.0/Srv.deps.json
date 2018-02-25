@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "1e2b258da2b9a70bbd68187e3e1d8aa1ba5dbb1c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Srv/1.0.0": {
+        "dependencies": {
+          "NLog": "4.4.12",
+          "NLog.InstallNLogConfig": "2.0.0"
+        },
+        "runtime": {
+          "Srv.dll": {}
+        }
+      },
+      "NLog/4.4.12": {
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "NLog.InstallNLogConfig/2.0.0": {
+        "dependencies": {
+          "NLog": "4.4.12"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Srv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.4.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fODew3BFT2XhAuqhGo2ZYT9OJE0ciGEBfvKXOmAAvaDsP/3ROIf083p8QUnmwKKw4jCkVW06ObX6gn/eFi2Skg==",
+      "path": "nlog/4.4.12",
+      "hashPath": "nlog.4.4.12.nupkg.sha512"
+    },
+    "NLog.InstallNLogConfig/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DRxYrPn+abNwJtGsbhlVSxU7F763lnhdsTt4aUN2jtfLNXdv6Yh0Gyw7iU1y5RDT7tCWfgzqseU94GZi2HaGvg==",
+      "path": "nlog.installnlogconfig/2.0.0",
+      "hashPath": "nlog.installnlogconfig.2.0.0.nupkg.sha512"
+    }
+  }
+}

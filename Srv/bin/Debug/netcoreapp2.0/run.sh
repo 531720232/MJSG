@@ -1,0 +1,1 @@
+dotnet Srv.dll "Srv.log4net"

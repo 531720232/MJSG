@@ -1,0 +1,10 @@
+F:\gameedit\Srv\obj\Debug\netcoreapp2.0\Srv.csprojResolveAssemblyReference.cache
+F:\gameedit\Srv\obj\Debug\netcoreapp2.0\Srv.csproj.CoreCompileInputs.cache
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\Srv.deps.json
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\Srv.runtimeconfig.json
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\Srv.runtimeconfig.dev.json
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\Srv.dll
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\Srv.pdb
+F:\gameedit\Srv\obj\Debug\netcoreapp2.0\Srv.dll
+F:\gameedit\Srv\obj\Debug\netcoreapp2.0\Srv.pdb
+F:\gameedit\Srv\bin\Debug\netcoreapp2.0\NLog.config
